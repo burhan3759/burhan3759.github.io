@@ -1,3 +1,5 @@
+{%- assign my_logo_url = site.url | append: '/assets/my_logo.png' -%}
+
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
@@ -6,11 +8,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
+          <img src="{{ my_logo_url }}" alt="my_logo" style="width:100px;height:70px;">
         </p>
       {%- if site.author %}
         <ul class="contact-list">
