@@ -4,12 +4,22 @@ This is my website, is not because I want free I use github pages. I love share 
 
 Hopefully you guys enjoy my stories and it help you guys in someway
 
+## Installation
+
+I will write it soon...
+
+## Commands
+
+1. Run this command before push to master `JEKYLL_ENV=production jekyll build`
+2. Run Jekyll on local `Jekyll serve`
+
 ## Tools used
 
 1. Jekyll
 2. Liquid by _Shopify_
 3. Google Analytics
 4. Github pages
+5. [Github Emoji's](https://gist.github.com/rxaviers/7360908)
 
 ## License
 

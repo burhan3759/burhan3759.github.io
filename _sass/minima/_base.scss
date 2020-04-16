@@ -203,6 +203,12 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+
+  // I add this styles
+  background-color: #f9f9f982;
+  border-radius: 10px;
+  padding-top: 10px;
+
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {

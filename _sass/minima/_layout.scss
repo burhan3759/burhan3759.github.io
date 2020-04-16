@@ -340,3 +340,10 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
