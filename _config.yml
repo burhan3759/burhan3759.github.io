@@ -32,6 +32,8 @@ social_links:
   github:  burhan3759
   linkedin: burhan3759
 
+google_analytics: UA-163829504-1
+
 # Build settings
 theme: minima
 plugins:
