@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Early Education and Lifes"
-date:   2020-04-16 00:00:00 +0800
+date:   2020-04-16 00:05:00 +0800
 categories: Kids Life
 permalink: /posts/early-education-and-lifes
 ---
@@ -18,7 +18,7 @@ permalink: /posts/early-education-and-lifes
 
 ### My Daily Task
 
-&nbsp; My neighbours and cousins are the same age as me, so you know what it means. It means unlimited enjoyment. After school, from 5.00 pm ~ 7.00 pm is play time. We are seasonal, we play using whatever we have and most of the time football on the road. I played most of the games on the road. It was one hell of a great feeling. I really wish I could go back to that time. Games that I played `Hide & Seek`, `Police & Thief`, `Tag / Run & Chase`, `YuGiOh`, `Beyblade`, `Crush Gear`, `Uno`, `Dam / Checker`, `Congkak`, `Skipping`, `Badminton`, `Bicycle`, `Football` and we even fight sometimes. Time really flies but good memories always stay.
+&nbsp; My neighbours and cousins are the same age as me, so you know what it means. It means unlimited enjoyment. After school, from 5.00 pm ~ 7.00 pm is play time. We are seasonal, we play using whatever we have and most of the time football on the road. I played most of the games on the road. It was one hell of a great feeling. I really wish I could go back to that time. Games that I played `Hide & Seek`, `Police & Thief`, `Tag / Run & Chase`, `YuGiOh`, `Beyblade`, `Crush Gear`, `Uno`, `Dam / Checker`, `Congkak`, `Skipping`, `Badminton`, `Bicycle`, `Football` and we even fight sometimes. Time really flies but good memories always stay. I had a wonderful childhood. Hopefully you guys have it also, let’s remember it for a moment and appreciate our moments.
 
 <br />
 
