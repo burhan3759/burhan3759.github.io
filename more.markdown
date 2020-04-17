@@ -1,0 +1,15 @@
+---
+layout: page
+title: My Resume
+permalink: /more
+---
+
+I have a specific website for my resume. You guys can visit my resume site by click [here](https://burhan3759.github.io/resume/){:target="_blank"}. I have a hard copy resume in pdf format which is different from website look. I provided both links below, please have a look
+
+[My Resume Website](https://burhan3759.github.io/resume/){:class="resume-link" target="_blank"}
+
+[Download My Resume](https://drive.google.com/uc?export=download&id=1ki4_PJJMf2InAqpz9C8mTLbEStgPVqad){:class="resume-link"}
+
+## Dark Mode
+
+&nbsp; I plan to have a dark mode for this page, but not yet implemented and not sure if possible todo in Jekyll or not. So will research on it implement it if possible.
