@@ -10,7 +10,7 @@ permalink: /posts/early-education-and-lifes
 
 ### Early Education
 
-&nbsp;My parents put me into kindergarten when I was 4 y/o :cry:. But it was so fun to me, I got many friends and learned so many exciting things. You know what, actually I don't remember much about kindergarten :laughing:. Let’s move to primary school, this is one hell of an awesome experience in my life. I met so many friends but only close to a few of my naught friends. I really can’t forget my primary schools, very nice die hard friends. I had great teachers and thanks to them I am here now. I was never a topper at school, most of the time I got a few numbers from back :sweat_smile: but numbers are just numbers, it will never stop my success.
+&nbsp;My parents put me into kindergarten when I was 4 y/o :cry:. But it was so fun to me, I got many friends and learned so many exciting things. You know what, actually I don't remember much about kindergarten :laughing:. Let’s move to primary school, this is one hell of an awesome experience in my life. I met so many friends but only close to a few of my naughty friends. I really can’t forget my primary schools, very nice die hard friends. I had great teachers and thanks to them I am here now. I was never a topper at school, most of the time I got a few numbers from back :sweat_smile: but numbers are just numbers, it will never stop my success.
 
 <br />
 

@@ -8,6 +8,8 @@ permalink: /posts/secondary-school-and-college-life
 
 &nbsp; Hello my dear fans :smiley:, this topic is about my `Secondary School` and `College Life`. Let me begin with my secondary school, few of my cousins join that school so I follow their footsteps, since we always play together in the evening. it feels great so I can start a new beginning.
 
+## Secondary School
+
 &nbsp; In my primary school I am a very shy person, but in secondary school I changed. I changed, the change is for good, because of that change I achieve few things. When I was form 1, I already met a wonderful person in my life and life is really surprising. I had awesome teachers and good friends. When I was in form 1, I always played games after school at the nearest cyber cafe and that was the only year that I was addicted to cyber cafes. Once I step up to Form 2, I never reach my feet to cyber cafes again. That place became boring and I found more interesting things to do, which is playing actual football.
 
 <br />
@@ -17,6 +19,8 @@ permalink: /posts/secondary-school-and-college-life
 <br />
 
 &nbsp; Fast forward to Form 5, I am a leader for my sports house. My sports color was blue `KASTURI`. I got a chance to work with the wonderful person that I met in form 1 and it was one of the best memories. That person is still holding my `medal` from running events. I am not an A scorer but I bet you I am not a noob. My results are seriously not bad since I am a quick learner, last minute study really helped a lot. I have been interested in the computing world since I was 14 years old. After SPM I have a clear view where I should step my feet. Side info, I have been selected for `National Service` and I attended it for 3 months, it is another great memory.
+
+## College Life
 
 &nbsp; Let me bring you guys to my college life, another twist and turn. I really have no idea which college to join. Searching for a few colleges via google and attending an education fair, finally I found this awesome college at `Fraser Business Park`. I read through the course outline and I like it, I enroll and begin my college life. First few semesters are quite nice, we have around 20 people in class. The place is kinda dead, not much food options but the lectures are good. I really like all my lectures, especially the one who taught me programming.
 
