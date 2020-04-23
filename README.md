@@ -20,6 +20,7 @@ I will write it soon...
 3. Google Analytics
 4. Github pages
 5. [Github Emoji's](https://gist.github.com/rxaviers/7360908)
+6. [Github Emoji's 2](https://github.com/ikatyang/emoji-cheat-sheet#)
 
 ## License
 
