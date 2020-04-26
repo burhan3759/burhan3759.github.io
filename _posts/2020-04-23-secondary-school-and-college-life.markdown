@@ -6,7 +6,7 @@ categories: Life
 permalink: /posts/secondary-school-and-college-life
 ---
 
-&nbsp; Hello my dear fans :smiling_imp:, this topic is about my `Secondary School` and `College Life`. Let’s begin with my secondary school, few of my cousins join that school so I follow their footsteps. It feels really great to start a new adventure.
+&nbsp; Hello my dear fans :smile:, this topic is about my `Secondary School` and `College Life`. Let’s begin with my secondary school, few of my cousins join that school so I follow their footsteps. It feels really great to start a new adventure.
 
 ## Secondary School
 
