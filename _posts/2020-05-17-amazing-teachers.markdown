@@ -44,7 +44,7 @@ permalink: /posts/secondary-school-and-college-life
 
 ## College
 
-&nbsp; In college I met with awesome gurus, they are not like primary and secondary teachers. They care a bit less but they are genuine. They teach with pure heart and make sure they deliver it properly. I will mention all of them I guess, because these lectures are the one who made me ready for the working world. `Pn Siti Salina, Miss Cheah, Mr Salzatore, Mr Shahab, Mr John, Miss Vasugi`. No bias but my programming teachers are super cool, I am a good programmer now because of them. I really need to give this credit to `Mr Salvatore` :man_teacher:. He teaches me Java and because of his teaching style I become so good at programming. Thank You Teachers.
+&nbsp; In college I met with awesome gurus, they are not like primary and secondary teachers. They care a bit less but they are genuine. They teach with pure heart and make sure they deliver it properly. I will mention all of them I guess, because these lectures are the one who made me ready for the working world. `Pn Siti Salina, Miss Cheah, Mr Salvatore, Mr Shahab, Mr John, Miss Vasugi`. No bias but my programming teachers are super cool, I am a good programmer now because of them. I really need to give this credit to `Mr Salvatore` :man_teacher:. He teaches me Java and because of his teaching style I become so good at programming. Thank You Teachers.
 
 ## Special Teachers
 
