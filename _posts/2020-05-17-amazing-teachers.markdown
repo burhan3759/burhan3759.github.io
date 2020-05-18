@@ -3,7 +3,7 @@ layout: post
 title:  "Amazing Teachers"
 date:   2020-05-17 00:05:00 +0800
 categories: Life
-permalink: /posts/secondary-school-and-college-life
+permalink: /posts/amazing-teachers
 ---
 
 &nbsp; Who I am now is 100% because of my teachers :man_teacher: :woman_teacher:, there is no doubt in it. I have been blessed with awesome `teachers` since my kindergarten. When I start realizing about kindergarten, I always think kindergarten is useless. When I grow older and older, I realize that kindergarten is the root of my success. My teachers planted a healthy root in me, I will start this topic with `Thank You Teachers`.
