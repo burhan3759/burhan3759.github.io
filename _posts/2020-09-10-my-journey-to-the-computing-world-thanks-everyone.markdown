@@ -54,4 +54,4 @@ permalink: /posts/my-journey-the-to-computing-world-thanks-everyone
 
 <br />
 
-![thanks a million](http://lewamack.com/Facebook/Pics/Thank_You-Thanks/Thanks_a_Million-animated-thank-you-0760-a-million.gif){:class="center"}
+![thanks a million](https://images.unsplash.com/photo-1549032305-e816fabf0dd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60){:class="center"}
