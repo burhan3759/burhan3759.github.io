@@ -18,11 +18,11 @@ permalink: /posts/my-journey-the-to-computing-world-thanks-everyone
 
 ![networking-server](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1191&q=80){:class="center"}
 
-## The Dive 
+## The Dive
 
 &nbsp; I take a diploma & degree in `Computer Science`, at this time still I want to become a Network engineer. Here comes the 3rd and most important person that makes me a programmer. Of course another main reason is the teacher but he is the one that pulls the trigger :gun:. His name is **Joel**. He is my classmate and he is the main reason I do coding now. The story begins like this; 
 
-`Far far away there is an island called <Hello World />` :joy: :joy:. Nah, I didn’t start like that. Let’s go to the actual story.
+`Far far away there is an island called <Hello World />` :joy: :joy:. Nah, it didn’t start like that. Let’s go to the actual story.
 
 &nbsp; Joel got a freelance project and he invited anyone who is free to join. I am not sure why but somehow I say I wanna join. I didn’t do any coding until 1 month from the date line or so. Then Joel asked me,
 
