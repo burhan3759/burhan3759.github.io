@@ -10,7 +10,7 @@ permalink: /posts/the-worst-goodbye-by-V
 
 `Story Mode: ON`
 
-It’s been years since me & V did not catch up. Luckly me, the wind flew my way and V cast her way to my island. It was so good to get back our old friend. We catch up many things and it is good enough to know more about each others more :innocent:. We had a great journey throughout the year and we did some good and awesome things too :swimmer:.
+It’s been years since me & V did not catch up. Lucky me, the wind flew my way and V cast her way to my island. It was so good to get back our old friend. We catch up many things and it is good enough to know more about each others more :innocent:. We had a great journey throughout the year and we did some good and awesome things too :swimmer:.
 
 We had many promises and planned to fulfill it as soon as possible but COVID :mask: hit the world and it is delayed. So after everything calms down a bit, I try to fulfill our promises. But V, as usual, ghosted :ghost: around and enjoyed the world.
 
