@@ -14,6 +14,8 @@ It’s been years since me & V did not catch up. Luckly me, the wind flew my way
 
 We had many promises and planned to fulfill it as soon as possible but COVID :mask: hit the world and it is delayed. So after everything calms down a bit, I try to fulfill our promises. But V, as usual, ghosted :ghost: around and enjoyed the world.
 
+![Bear Lego](https://i.imgur.com/r6gbj5z.jpeg){:class="center"}
+
 One day, I tried to set up a plan that is on our checklist. The ghosting is becoming worse and the reply is like a youtube buffer with 2g connection :unamused:. I was concerned about V, afraid something that is not good could happen to V. Luckily V replied the next day. She said, she had some unavoidable issues and needs to focus on it. The first reply from me is laugh :rofl:. I say to V, good and go for it :thumbsup:.
 
 As usual I give a great wish and ask V to focus on it. Here comes the worst part. V did not reply and ghost me again. V should learn to say `Thank You and See You Around`. So I take this as a `"WORST GOODBYE EVER"`. If V comes again to my island I will request V to buy me an expensive nasi lemak :rice: :poultry_leg: . That’s the punishment. Yes, I am dead serious :triumph:.
