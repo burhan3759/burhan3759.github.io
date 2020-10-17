@@ -12,6 +12,7 @@ I will write it soon...
 
 1. Run this command before push to master `JEKYLL_ENV=production jekyll build`
 2. Run Jekyll on local `Jekyll serve`
+3. Run Jekyll on Local with LiveReload `Jekyll serve -l`
 
 ## Tools used
 
