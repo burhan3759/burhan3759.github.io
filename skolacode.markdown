@@ -10,7 +10,7 @@ permalink: /skolacode
 
 Facebook: [`facebook.com/SkolaCode`](https://www.facebook.com/SkolaCode){:target="_blank"}
 
-Website: [`https://skolacode.github.io`](https://skolacode.github.io){:target="_blank"}
+Website: [`https://skolacode.com`](https://skolacode.com){:target="_blank"}
 
 <br />
   
