@@ -8,9 +8,9 @@ permalink: /posts/a-story-of-a-helmet
 
 &nbsp; Kisah menarik tentang Helmet, Kawan, Driver Bus, & Polis. Diinspirasikan dari kisah benar. Permulaannya begini, seperti hari-hari yang biasa aku pergi ke tempat kerja dengan riang ria. Buat kerja seperti biasa dan aku terserempak dengan kawan aku dan kawan aku ni mereng sikit :joy:. Waktu tu pulak time balik kerja, kami sembang-sembang then dia tanya aku, balik macam mana? Aku jawab naik public transport. Dia cakap jom ikot aku, dia nak hantar aku kat LRT. Aku cakap takde helmet, dia cakap redah je.. Kan aku cakap dia mereng.
 
-&nbsp; Part 1 bermula, aku pon terikot mereng dia, aku cakap jom :muscle:. Plan nak drop di LRT Gombak :train2:, dia ingat dekat, last-last jauh LRT Gombak ni. Dia terlepas jalan dan plan untuk drop di LRT Taman Melati. Disini babak menarik bermula, LRT di sebelah kiri jalan malas u-turn. Bagitahu dia, bro kita jalan jauh tanpa helmet ni kang ada Polis masak nanti. Dia ckp jalan sini takde Polis :policeman:. Konfident level dia tinggi ke langit :rainbow:.
+&nbsp; Part 1 bermula, aku pon terikot mereng dia, aku cakap jom :muscle:. Plan nak drop di LRT Gombak :train2:, dia ingat dekat, last-last jauh LRT Gombak ni. Dia terlepas jalan dan plan untuk drop di LRT Taman Melati. Disini babak menarik bermula, LRT di sebelah kiri jalan, dia malas sungguh nak u-turn. Bagitahu dia; bro kita jalan jauh tanpa helmet ni, kang ada Polis.. masak nanti. Dia ckp jalan sini takde Polis :policeman:. Level Konfident dia tinggi ke langit :rainbow:.
 
-&nbsp; Part 2, Dia punya malas nak u-turn and drop di LRT Taman Melati dia jalan terus and cakap nak drop kat LRT Wangsa Maju. Punya la mereng, tup tup depan ada road block :construction:. Panic dia dan pergh kalah orang tertinggal kunci motor atas motor. Dari sini kita tulis mode dialog.
+&nbsp; Part 2, Dia punya malas nak u-turn and drop di LRT Taman Melati. Dia jalan terus and cakap nak drop kat LRT Wangsa Maju. Punya la mereng, tup tup depan ada road block :construction: kat depan. Panic dia, pergh kalah orang tertinggal kunci motor atas motor. Dari sini kita tulis mode dialog.
 
 `Dialog Mode: ON`
 
