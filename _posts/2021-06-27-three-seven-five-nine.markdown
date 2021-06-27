@@ -29,6 +29,6 @@ Instagram: [instagram.com/burhan.3759](https://www.instagram.com/burhan.3759/){:
 
 See that, all is 3759 same goes to this website [https://burhan3759.com](https://burhan3759.com){: target="_blank"}, cool right :grimacing:
 
-[3759](https://i.imgur.com/Ikqucq7.png?1){:class="center" width="60%" height="auto"}
+![my_magic_number](https://i.imgur.com/Ikqucq7.png){:class="center" width="60%" height="auto"}
 
 
