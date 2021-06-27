@@ -15,7 +15,7 @@ permalink: /posts/three-seven-five-nine
 &nbsp; I choose the odd number between 1 ~ 10 only, the reason is, I felt the cosmic realtions between me and this numbers since I was kid around 9 or 10 years old and that time our fingers is our primary calculator and 3, 5, 7, and 9 is easy to see just using our fingers. Why the shuffle? Why not 3579 instead of 3759? This is the good question. Again it is related to the cosmic relation thingy, the normal sequence feels like not the right one and I swap it with 3759 and it made a immediate “a ha” moment. From that moment I know, I will stick with 3759 for my entire life. :slightly_smiling_face:
 
 
-&nbsp; I start using this handle actively since 2011, and lucky me to have some knowledge about internet, all the 3759 account that I can acquire, I acquire it. Thank god most of the burhan3759 is available and I immediately own it :innocent:. Thats it, I think this is pretty much the story. I am so proud of this handle and the feeling it gives me is priceless. Thanks to cosmic relation for this greate handle 
+&nbsp; I start using this handle actively since 2011, and lucky me to have some knowledge about internet, all the 3759 account that I can acquire, I acquire it. Thank god most of the burhan3759 is available and I immediately own it :innocent:. Thats it, I think this is pretty much the story. I am so proud of this handle and the feeling it gives me is priceless. Thanks to cosmic relation for this great internet handle
 
 ![Cosmic Relation](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80){:class="center" style="margin-top: 10px; margin-bottom: 40px"}
 
