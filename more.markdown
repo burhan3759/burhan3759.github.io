@@ -9,7 +9,3 @@ I have a specific website for my resume. You guys can visit my resume site by cl
 [My Resume Website](https://resume.burhan3759.com){:class="resume-link" target="_blank"}
 
 [Download My Resume](https://drive.google.com/uc?export=download&id=1ki4_PJJMf2InAqpz9C8mTLbEStgPVqad){:class="resume-link"}
-
-## Dark Mode
-
-&nbsp; I plan to have a dark mode for this page, but not yet implemented and not sure if possible todo in Jekyll or not. So will research on it implement it if possible.
