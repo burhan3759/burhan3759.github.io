@@ -228,8 +228,30 @@
 }
 
 .post-link {
-  display: block;
   @include relative-font-size(1.5);
+}
+
+.post-tag {
+  font-size: 9px;
+  font-weight: 600;
+  color: $brand-color;
+  background-color: #aaaaaa;
+  padding: 5px;
+  border-radius: 4px;
+  color: #fff;
+  text-transform: uppercase;
+  -webkit-tap-highlight-color: transparent !important;
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+  &:visited,
+  &:active {
+    color: #fff;
+    text-decoration: none; 
+    -webkit-tap-highlight-color: transparent !important;
+    outline: none !important;
+  }
 }
 
 

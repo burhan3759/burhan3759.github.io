@@ -2,8 +2,9 @@
 layout: post
 title:  "Secondary School & College Life"
 date:   2020-04-23 00:05:00 +0800
-categories: Life
-permalink: /posts/secondary-school-and-college-life
+categories: life
+tags: life
+permalink: /posts/:categories/secondary-school-and-college-life
 ---
 
 &nbsp; Hello my dear fans :smile:, this topic is about my `Secondary School` and `College Life`. Let’s begin with my secondary school, few of my cousins join that school so I follow their footsteps. It feels really great to start a new adventure.

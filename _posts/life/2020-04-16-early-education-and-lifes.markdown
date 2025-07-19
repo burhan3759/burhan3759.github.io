@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Early Education and Lifes"
+title:  "Early Education and Life"
 date:   2020-04-16 00:05:00 +0800
-categories: Kids Life
-permalink: /posts/early-education-and-lifes
+categories: life
+tags: life
+permalink: /posts/:categories/early-education-and-life
 ---
 
 &nbsp; Normal healthy childhood, I am the eldest in my family and as you know the eldest got either special treatment or the worse `Haha`. I got the special one, my parents say I am a silent guy outside and very naughty inside the house. My dad is really cool, he always buys me a lot of toys, this makes me become adamant when I see a toy at a shop. I will cry and try to get that toy :laughing:. Yeah that’s me when I was young. But age changed me, I became a better person. I use my brother now to get what I want :smiling_imp: he is more adamant then me `HAHAHA`. I missed that childhood

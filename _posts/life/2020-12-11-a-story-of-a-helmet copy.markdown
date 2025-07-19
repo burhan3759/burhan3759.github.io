@@ -2,8 +2,9 @@
 layout: post
 title:  "A Story of a Helmet"
 date:   2020-12-11 00:05:00 +0800
-categories: Life
-permalink: /posts/a-story-of-a-helmet
+categories: life
+tags: life
+permalink: /posts/:categories/a-story-of-a-helmet
 ---
 
 &nbsp; Kisah menarik tentang Helmet, Kawan, Driver Bus, & Polis. Diinspirasikan dari kisah benar. Permulaannya begini, seperti hari-hari yang biasa aku pergi ke tempat kerja dengan riang ria. Buat kerja seperti biasa dan aku terserempak dengan kawan aku dan kawan aku ni mereng sikit :joy:. Waktu tu pulak time balik kerja, kami sembang-sembang then dia tanya aku, balik macam mana? Aku jawab naik public transport. Dia cakap jom ikot aku, dia nak hantar aku kat LRT. Aku cakap takde helmet, dia cakap redah je.. Kan aku cakap dia mereng.

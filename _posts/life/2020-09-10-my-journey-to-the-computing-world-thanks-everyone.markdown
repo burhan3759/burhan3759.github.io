@@ -2,8 +2,9 @@
 layout: post
 title:  "My Journey To The Computing World. Thanks Everyone"
 date:   2020-09-10 00:05:00 +0800
-categories: Life
-permalink: /posts/my-journey-the-to-computing-world-thanks-everyone
+categories: life
+tags: life
+permalink: /posts/:categories/my-journey-the-to-computing-world-thanks-everyone
 ---
 
 &nbsp; The journey to the Computing world, in this topic I will mention the people who pushed me into computing world. As usual, let's start from the beginning. As all normal kids, whenever I asked what I am going to be in future, the answer will be  _"Police"_, _“Doctor”_, _“Lawyer”_, and you guys know the list. Never in a thousand times I thought I would be a software engineer  and I never knew this kinda job existed at that time. So, where does all of this begin? Here come the first character that are responsible for it; **Azhar**, he is my cousin and he is one year older than me. in 2007, we went to INDIA :india: and I have no idea how `he got this idea` of getting involved in the computing world, I guess it is inside the indian genes :rofl: :rofl:.

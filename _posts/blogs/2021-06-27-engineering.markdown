@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Three Seven Five Nine"
-date:   2021-06-27 00:05:00 +0800
-categories: Life
-permalink: /posts/three-seven-five-nine
+title:  "Software Engineer"
+date:   2025-06-27 00:08:00 +0800
+categories: engineering
+tags: engineering
+permalink: /posts/:categories/software-engineer
 ---
 
 &nbsp; Let’s reveal the secret of __3759__, maybe non realise that all my internet handle always end’s with 3759. Google up [“burhan3759”](https://www.google.com/search?q=burhan3759){: target="_blank"}, and 90% of the results will lead to me Today I will share with you guys, what this number means. 

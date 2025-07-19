@@ -2,8 +2,9 @@
 layout: post
 title:  "I Met the Strongest Person in My Life"
 date:   2021-04-11 00:05:00 +0800
-categories: Life
-permalink: /posts/i-met-the-strongest-person-in-my-life
+categories: life
+tags: life
+permalink: /posts/:categories/i-met-the-strongest-person-in-my-life
 ---
 
 &nbsp; This story is very close to my heart :heart:. I met the strongest person in my life, this person faced more hardship than good. I totally get it, everyone has hardships but we also know that there is a person that has a bit more bad luck than others. This person is not only strong but also brilliant and has an angel look.
