@@ -1,28 +1,19 @@
 # Introduction
 
-This is my website, is not because I want free I use github pages. I love share knowledge, so the best way to share the knowledge is by practicing it and show it. So poeple will have a guide to follow. I will wrote my stories here and when ever I miss myself, I will come to this page and look what have i learnt and go through in my life
+This repository now contains a plain static version of the site built with HTML, CSS, and a small amount of JavaScript.
 
-Hopefully you guys enjoy my stories and it help you guys in someway
+## Local Preview
 
-## Installation
+The current exported pages are self-contained enough to open directly in a browser from `index.html` without a build step or local server.
 
-I will write it soon...
+Open `index.html` directly in your browser.
 
-## Commands
+## Project Notes
 
-1. Run this command before push to master `JEKYLL_ENV=production jekyll build`
-2. Run Jekyll on local `Jekyll serve`
-3. Run Jekyll on Local with LiveReload `Jekyll serve -l`
-
-## Tools used
-
-1. Jekyll
-2. Liquid by _Shopify_
-3. Google Analytics
-4. Github pages
-5. [Github Emoji's](https://gist.github.com/rxaviers/7360908)
-6. [Github Emoji's 2](https://github.com/ikatyang/emoji-cheat-sheet#)
+1. The current site at the repository root is the standalone static version.
+2. The previous Jekyll source was preserved in `jekyll-source-backup/`.
+3. A duplicate standalone copy is still available in `vanilla/`.
 
 ## License
 
-Please refer to LICENSE.md
+Please refer to LICENSE.md.

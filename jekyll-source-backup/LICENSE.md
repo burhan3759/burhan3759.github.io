@@ -1,0 +1,1 @@
+I give permission to anyone in the world to copy this code but not the content. The content is purely mine and cannot be used for other purposes without my permissions. Please seek permissions if needed the content. Copying my content without my permissions will be end up in jail. Thanks people for understanding and please contribute to community and practice open source. 
