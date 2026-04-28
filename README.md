@@ -4,9 +4,16 @@ This repository now contains a plain static version of the site built with HTML,
 
 ## Local Preview
 
-The current exported pages are self-contained enough to open directly in a browser from `index.html` without a build step or local server.
+This site now uses shared CSS and JavaScript files. Use a local HTTP server for consistent browser behavior.
 
-Open `index.html` directly in your browser.
+From the repository root run:
+
+1. `./serve-local.sh`
+2. `ruby -run -e httpd . -p 8000`
+
+Then open:
+
+1. `http://localhost:8000`
 
 ## Project Notes
 
