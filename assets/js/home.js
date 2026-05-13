@@ -46,11 +46,11 @@
 
     featuredGrid.innerHTML = topPosts.map(function (post) {
       return [
-        '<article class="home-featured-card">',
+        '<a class="home-featured-card" href="' + escapeHtml(post.url) + '">',
         '  <p class="home-featured-card__meta">' + formatDate(post.published) + '</p>',
-        '  <h3><a class="home-featured-card__title" href="' + escapeHtml(post.url) + '">' + escapeHtml(post.title) + '</a></h3>',
+        '  <h3 class="home-featured-card__title">' + escapeHtml(post.title) + '</h3>',
         '  <p class="home-featured-card__excerpt">' + escapeHtml(post.excerpt || '') + '</p>',
-        '</article>'
+        '</a>'
       ].join('');
     }).join('');
   }
@@ -63,14 +63,14 @@
 
     storyGrid.innerHTML = posts.map(function (post) {
       return [
-        '<article class="home-story-card" data-story-card data-tags="' + escapeHtml(post.category) + '">',
+        '<a class="home-story-card" data-story-card data-tags="' + escapeHtml(post.category) + '" href="' + escapeHtml(post.url) + '">',
         '  <div class="home-story-card__topline">',
         '    <p class="home-story-card__date">' + formatDate(post.published) + '</p>',
         '    <div class="home-story-card__tags"><span class="home-story-card__tag">' + escapeHtml(post.category) + '</span></div>',
         '  </div>',
-        '  <h3><a class="home-story-card__title" href="' + escapeHtml(post.url) + '">' + escapeHtml(post.title) + '</a></h3>',
+        '  <h3 class="home-story-card__title">' + escapeHtml(post.title) + '</h3>',
         '  <p class="home-story-card__excerpt">' + escapeHtml(post.excerpt || '') + '</p>',
-        '</article>'
+        '</a>'
       ].join('');
     }).join('');
   }
