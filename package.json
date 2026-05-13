@@ -1,0 +1,13 @@
+{
+  "name": "burhan3759-github-io",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "./serve-local.sh 8000",
+    "dev": "browser-sync start --server . --files \"*.html,assets/css/*.css,assets/js/*.js,assets/data/*.json,posts/**/*.html\" --port 8000 --no-open",
+    "dev:open": "browser-sync start --server . --files \"*.html,assets/css/*.css,assets/js/*.js,assets/data/*.json,posts/**/*.html\" --port 8000"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}

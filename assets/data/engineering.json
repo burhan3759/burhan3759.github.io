@@ -2,7 +2,7 @@
   {
     "slug": "understanding-concepts",
     "title": "Understanding Concepts",
-    "published": "2025-06-27T00:08:00+08:00",
+    "published": "2019-03-04T00:08:00+08:00",
     "url": "/posts/engineering/understanding-concepts.html",
     "excerpt": "The Secret to Better Coding\n\nWhen you're learning to code, the \"concept\" is the most important thing to grasp. You can think of it as the core logic or the formula...",
     "markdown": "The Secret to Better Coding\n\nWhen you're learning to code, the \"concept\" is the most important thing to grasp. You can think of it as the core logic or the formula behind a feature.\n\nTo break it down, here is a simple example: **a + b = x**\n\nTo get the result **x**, you have to understand that you need **a** and **b** first. That's the concept—knowing exactly what you need to achieve your goal before you even touch the keyboard.\n\n### Why does this matter?\n\nHere are three reasons why focusing on the concept is a game-changer:\n\n1. **You know your end goal:** You aren't just typing random code; you have a clear vision of what you are building.\n\n2. **You know your dependencies:** Just like in the math example, you identify exactly what inputs or data you need to reach the result.\n\n3. **You have intentionality:** This is the most important part—you actually understand *what* you are doing and *why* you are doing it, rather than just copying and pasting from tutorials.\n\n### The Bottom Line\n\nBy mastering the concept first, your coding and problem-solving skills will become so much stronger. It's easy to get lost in syntax, but if you remember to **\"Understand the Concept,\"** everything else will fall into place naturally."
