@@ -877,6 +877,12 @@ table td {
   border-color: transparent;
 }
 
+.home-hero__button--primary:visited,
+.home-hero__button--primary:hover,
+.home-hero__button--primary:focus-visible {
+  color: #fff;
+}
+
 .home-hero__stats {
   display: grid;
   gap: 16px;
