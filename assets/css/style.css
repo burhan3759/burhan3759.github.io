@@ -1068,6 +1068,37 @@ table td {
   color: var(--home-muted);
 }
 
+.home-story-grid__more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.home-story-grid__more-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border-radius: 999px;
+  border: 1px solid rgba(16, 37, 63, 0.14);
+  color: var(--home-ink);
+  background: #fff;
+  font-weight: 600;
+}
+
+.home-story-grid__more-link:visited {
+  color: var(--home-ink);
+}
+
+.home-story-grid__more-link:hover,
+.home-story-grid__more-link:focus-visible {
+  color: #fff;
+  background: var(--home-ink);
+  border-color: var(--home-ink);
+  text-decoration: none;
+}
+
 @media screen and (min-width: 900px) {
   .home-hero {
     grid-template-columns: minmax(0, 1.45fr) minmax(240px, 0.8fr);

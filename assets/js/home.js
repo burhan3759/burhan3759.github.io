@@ -2,10 +2,13 @@
   const featuredGrid = document.querySelector('[data-featured-grid]');
   const storyGrid = document.querySelector('[data-story-grid]');
   const emptyState = document.querySelector('[data-empty-state]');
+  const moreLinks = document.querySelector('[data-more-links]');
   const filterButtons = Array.from(document.querySelectorAll('[data-filter]'));
   const statTotal = document.querySelector('[data-stat="total"]');
   const statEngineering = document.querySelector('[data-stat="engineering"]');
   const statLife = document.querySelector('[data-stat="life"]');
+  const maxStories = 9;
+  let allPosts = [];
 
   if (!featuredGrid || !storyGrid) {
     return;
@@ -63,7 +66,7 @@
 
     storyGrid.innerHTML = posts.map(function (post) {
       return [
-        '<a class="home-story-card" data-story-card data-tags="' + escapeHtml(post.category) + '" href="' + escapeHtml(post.url) + '">',
+        '<a class="home-story-card" href="' + escapeHtml(post.url) + '">',
         '  <div class="home-story-card__topline">',
         '    <p class="home-story-card__date">' + formatDate(post.published) + '</p>',
         '    <div class="home-story-card__tags"><span class="home-story-card__tag">' + escapeHtml(post.category) + '</span></div>',
@@ -75,26 +78,56 @@
     }).join('');
   }
 
+  function getFilteredPosts(selectedFilter) {
+    return allPosts.filter(function (post) {
+      return selectedFilter === 'all' || post.category === selectedFilter;
+    });
+  }
+
+  function renderMoreLinks(selectedFilter) {
+    if (!moreLinks) {
+      return;
+    }
+
+    const linksByFilter = {
+      all: [
+        { href: './engineering.html', label: 'More engineering stories' },
+        { href: './life.html', label: 'More life stories' }
+      ],
+      engineering: [
+        { href: './engineering.html', label: 'View all engineering stories' }
+      ],
+      life: [
+        { href: './life.html', label: 'View all life stories' }
+      ]
+    };
+
+    const links = linksByFilter[selectedFilter] || [];
+
+    if (links.length === 0) {
+      moreLinks.hidden = true;
+      moreLinks.innerHTML = '';
+      return;
+    }
+
+    moreLinks.hidden = false;
+    moreLinks.innerHTML = links.map(function (link) {
+      return '<a class="home-story-grid__more-link" href="' + link.href + '">' + escapeHtml(link.label) + '</a>';
+    }).join('');
+  }
+
   function applyFilter(selectedFilter) {
-    const storyCards = Array.from(document.querySelectorAll('[data-story-card]'));
-    let visibleCount = 0;
+    const visiblePosts = getFilteredPosts(selectedFilter).slice(0, maxStories);
 
     filterButtons.forEach(function (button) {
       button.classList.toggle('is-active', button.dataset.filter === selectedFilter);
     });
 
-    storyCards.forEach(function (card) {
-      const tags = (card.dataset.tags || '').split(/\s+/).filter(Boolean);
-      const isVisible = selectedFilter === 'all' || tags.includes(selectedFilter);
-
-      card.classList.toggle('is-hidden', !isVisible);
-      if (isVisible) {
-        visibleCount += 1;
-      }
-    });
+    renderStories(visiblePosts);
+    renderMoreLinks(selectedFilter);
 
     if (emptyState) {
-      emptyState.hidden = visibleCount !== 0;
+      emptyState.hidden = visiblePosts.length !== 0;
     }
   }
 
@@ -123,14 +156,13 @@
     fetch('./assets/data/engineering.json').then(function (response) { return response.json(); }),
     fetch('./assets/data/life.json').then(function (response) { return response.json(); })
   ]).then(function (data) {
-    const posts = withCategory(data[0], 'engineering').concat(withCategory(data[1], 'life'));
-    posts.sort(function (a, b) {
+    allPosts = withCategory(data[0], 'engineering').concat(withCategory(data[1], 'life'));
+    allPosts.sort(function (a, b) {
       return new Date(b.published).getTime() - new Date(a.published).getTime();
     });
 
-    updateStats(posts);
-    renderFeatured(posts);
-    renderStories(posts);
+    updateStats(allPosts);
+    renderFeatured(allPosts);
 
     filterButtons.forEach(function (button) {
       button.addEventListener('click', function () {
@@ -142,5 +174,9 @@
   }).catch(function () {
     featuredGrid.innerHTML = '<p>Unable to load stories right now.</p>';
     storyGrid.innerHTML = '<p>Unable to load stories right now.</p>';
+    if (moreLinks) {
+      moreLinks.hidden = true;
+      moreLinks.innerHTML = '';
+    }
   });
 })();
