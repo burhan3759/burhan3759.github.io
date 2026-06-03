@@ -4,6 +4,8 @@
   const emptyState = document.querySelector('[data-empty-state]');
   const moreLinks = document.querySelector('[data-more-links]');
   const filterButtons = Array.from(document.querySelectorAll('[data-filter]'));
+  const statFilterButtons = Array.from(document.querySelectorAll('[data-stat-filter]'));
+  const allStoriesSection = document.getElementById('all-stories-title');
   const statTotal = document.querySelector('[data-stat="total"]');
   const statEngineering = document.querySelector('[data-stat="engineering"]');
   const statLife = document.querySelector('[data-stat="life"]');
@@ -131,6 +133,14 @@
     }
   }
 
+  function selectFilterAndScroll(selectedFilter) {
+    applyFilter(selectedFilter);
+
+    if (allStoriesSection) {
+      allStoriesSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
   function updateStats(posts) {
     const engineering = posts.filter(function (item) { return item.category === 'engineering'; }).length;
     const life = posts.filter(function (item) { return item.category === 'life'; }).length;
@@ -167,6 +177,12 @@
     filterButtons.forEach(function (button) {
       button.addEventListener('click', function () {
         applyFilter(button.dataset.filter || 'all');
+      });
+    });
+
+    statFilterButtons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        selectFilterAndScroll(button.dataset.statFilter || 'all');
       });
     });
 
